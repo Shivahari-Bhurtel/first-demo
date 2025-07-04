@@ -5,3 +5,4 @@ Begining phase of mastering AI!
 <br>
 <br>
 second commit in git!!
+This is the world of california!!...!
